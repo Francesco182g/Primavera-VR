@@ -35,7 +35,7 @@ This section should list any major frameworks that you built your project using.
 <!-- LICENSE -->
 ## License
 
-Distributed under the Apche License. See `LICENSE` for more information.
+Distributed under the MPL License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
