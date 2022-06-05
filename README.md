@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Francesco182g/Camera-Preview-Ionic-Angular">
-    <img src="https://img.youtube.com/vi/eIubo9inP2o/0.jpg" alt="Camera" width="80" height="80">
+  <a href="https://github.com/Francesco182g/Primavera-VR">
+    <img src="" alt="Preview not Available" width="80" height="80">
   </a>
 
   <h3 align="center"> Primavera-VR</h3>
