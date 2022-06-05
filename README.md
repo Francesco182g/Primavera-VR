@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Francesco182g/Primavera-VR">
-    <img src="" alt="Preview not Available" width="80" height="80">
+    <img src="" alt="Primavera VR - Under Development" width="80" height="80">
   </a>
 
   <h3 align="center"> Primavera-VR</h3>
@@ -10,7 +10,7 @@
   <p align="center">
      Botticelli's painting comes to life in 3D in an immersive virtual reality experience.
     <br />
-    <a href="https://github.com/Francesco182g/Primavera-VR/tree/main/src"><strong>Explore the code»</strong></a>
+    <a href="https://github.com/Francesco182g/Primavera-VR/tree/main/src"><strong>«Explore the code»</strong></a>
     <br />
     <br />
     <a href="https://github.com/Francesco182g/Primavera-VR/issues">Report Bug</a>
